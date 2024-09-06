@@ -6,7 +6,8 @@
     <title>PWL 2024</title>
 </head>
 <body>
-    <h2>Pemrograman Web lanjut 2024</h2>
-    <h3>Semangat Belajar Laravel 10</h3>
+    <h1>Perkenalkan</h1>
+    <h2>221760135</h2>
+    <h3>Agung Nugroho</h3>
 </body>
 </html>
