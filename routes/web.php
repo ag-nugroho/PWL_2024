@@ -120,7 +120,9 @@ Route::get('/articles/{id}', [PageController::class, 'articles']);
 
 Route::get('/home', [HomeController::class, 'home']);
 
-Route::get('/about', [AboutContoller::class, 'index']);
+Route::get('/index', [AboutContoller::class, 'index']);
+
+Route::get('/about', [AboutContoller::class, 'about']);
 
 Route::get('/posts/{post}/comments/{comment}', [ArticleController::class, 'articles']);
 
