@@ -6,8 +6,6 @@
     <title>PWL 2024</title>
 </head>
 <body>
-    <h1>Perkenalkan</h1>
-    <h2>221760135</h2>
-    <h3>Agung Nugroho</h3>
+    <h1>Halo Selamat Datang di Website Agung</h1>
 </body>
 </html>
